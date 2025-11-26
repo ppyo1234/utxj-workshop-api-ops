@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  namespace: Arturo
+  namespace: arturo
   name: utxj-workshop-api
 spec:
   replicas: 2
